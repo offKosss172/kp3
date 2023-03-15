@@ -21,9 +21,10 @@ require($_SERVER['DOCUMENT_ROOT'].'/configs/helpers.php');
   <!-- Place favicon.ico in the root directory -->
 
   <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
-
+  <link href="/assets/css/style.css" rel="stylesheet">
+  
   <meta name="theme-color" content="#fafafa">
-  <link rel="stylesheet" href="assets/css/style.css">
+  
 </head>
 
 <body>
