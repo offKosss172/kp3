@@ -1,0 +1,56 @@
+body{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+.container a{
+    text-decoration: none;
+    color: brown;
+}
+.container img{
+    width: 5%;
+}
+.header-general{
+    height: 100px;
+    background-color: khaki;
+    display: flex;
+    position: fixed;
+    flex-direction: row-reverse;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.led-tronylsya{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.aside-menu{
+    width: 200px;
+    height: 300px;
+    background-color: blanchedalmond;
+    text-align: center;
+    vertical-align: middle;
+    color: black;
+}
+.slider-general{
+    width: calc(100% - 250px);
+    height: 300px;
+    background-color: burlywood;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+    color: black;
+}
+
+
+
+.onlytest{
+    display: block;
+}
+.test{
+    height: 200px;
+    width: 300px;
+    background-color: coral;
+    margin: 100px auto 100px;
+}
